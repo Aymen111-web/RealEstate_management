@@ -20,11 +20,6 @@ Features
 - Backend: PHP  
 - Database: ( MySQL)
 
----
-
- Clone the repository:
-   ```bash
-   git clone https://github.com/Aymen111-web/RealEstate_management.git
 
       Group name                                                 ID
 
